@@ -8,4 +8,8 @@ A Project Repository for an Employee Directory backend built with Python
 
 ### Tooling
 - [Frontend Tooling with AppSmith](https://www.appsmith.com/)
-- [REact based frontend with Clutch](https://clutch.io/)
+- [React based frontend with Clutch](https://clutch.io/)
+- [Flask Backend Framework for Python](https://flask.palletsprojects.com/en/2.0.x/)
+- [Django Backend Framework for Python](https://www.djangoproject.com/)
+- [Django Backend Framework for Python](https://www.djangoproject.com/)
+- [SQLAlchemy ORM for Python](https://www.sqlalchemy.org/)
